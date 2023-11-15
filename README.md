@@ -22,7 +22,7 @@ This Python script is your handy tool for scraping job listings from naukri.com.
 1. Clone the repository:
 
     ```bash
-    https://github.com/Rockposedon/WebScraping.git
+    git clone https://github.com/Rockposedon/WebScraping.git
     cd WebScraping
     ```
 
