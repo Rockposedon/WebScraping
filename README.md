@@ -2,9 +2,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO.svg?style=social)](https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers)
 
-A Python script for scraping job listings from naukri.com. Extracts key details like job titles, company names, and descriptions.
+This project is a web scraper for naukri.com, designed to extract job details efficiently. It utilizes the naukri.com
+job search API to gather information about developer jobs across India and save the results in a structured format.
+I used a Python script for scraping job listings from naukri.com. 
 
 ## Features
 
